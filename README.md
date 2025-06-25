@@ -39,7 +39,7 @@ Použité tabuľky:
 
 ## Ako pracovať s projektom
 
-1. Otvor `Analyza_zivotnej_urovne.md`
+1. Otvor `Vyhodnoceni_analyz_zivotnej_urovne`
 2. Prejdi si použité dáta a metodiku
 3. Pozri si výsledky analýz
 
